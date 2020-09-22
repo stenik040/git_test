@@ -1,0 +1,1 @@
+This is stenik040’s first git project!
